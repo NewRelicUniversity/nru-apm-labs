@@ -1,6 +1,6 @@
 # Logging into the training account
 
-## Step 1:
+## Step 1
 In a private browser window, use the following credentials to log into New Relic: 
 
 - URL: [https://one.newrelic.com/](https://one.newrelic.com/)
